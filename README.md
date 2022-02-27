@@ -6,7 +6,7 @@ FASP explicitly models and well handles the intracellular propagation phenomena 
 ## How to cite FASP
 The FASP Fiji plugin is based on algorithm introduced in our following paper which is submitted and under review:
 
-Yinxue Wang, Guilai Shi, David J. Miller, Yizhi Wang, Congchao Wang, Gerard Broussard, Yue Wang, Lin Tian, and Guoqiang Yu. "Automated functional analysis of astrocytes from chronic time-lapse calcium imaging data." Submitted.
+Wang, Yinxue, et al. "Automated functional analysis of astrocytes from chronic time-lapse calcium imaging data." Frontiers in neuroinformatics 11 (2017): 48.
 
 ## Tutorial
 Please see user manual.
